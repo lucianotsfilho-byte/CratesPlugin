@@ -1,0 +1,5 @@
+
+name: crateplugin
+version: '1.0'
+main: br.com.luciano.crateplugin.Crateplugin
+api-version: '1.21'
