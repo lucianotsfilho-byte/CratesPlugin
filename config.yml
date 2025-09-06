@@ -1,0 +1,15 @@
+crates:
+  vip:
+    location:
+      x: 100
+      y: 65
+      z: 200
+      world: world
+    key: "§6Chave Vip"
+    rewards:
+      DIAMOND:
+        chance: 10
+      GOLD_INGOT:
+        chance: 30
+      IRON_INGOT:
+        chance: 60
